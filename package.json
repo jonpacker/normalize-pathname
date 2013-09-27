@@ -1,0 +1,22 @@
+{
+  "name": "normalize-pathname",
+  "version": "1.0.0",
+  "description": "normalizes any pathname to one leading slash and no trailing slash",
+  "main": "np.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jonpacker/normalize-pathname"
+  },
+  "keywords": [
+    "normalize",
+    "pathname"
+  ],
+  "author": "Jon Packer",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "~1.13.0"
+  }
+}
