@@ -1,6 +1,6 @@
 {
   "name": "normalize-pathname",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "normalizes any pathname to one leading slash and no trailing slash",
   "main": "np.js",
   "scripts": {
